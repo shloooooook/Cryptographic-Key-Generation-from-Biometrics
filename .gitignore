@@ -7,8 +7,6 @@ project/
 __pycache__/
 *.pyc
 
-# Large data and model files
-/dataset/
 *.keras
 *.zip
 
