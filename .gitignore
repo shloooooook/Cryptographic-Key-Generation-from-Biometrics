@@ -1,0 +1,18 @@
+# Python virtual environment
+venv/
+project/
+/op/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Large data and model files
+/dataset/
+*.keras
+*.zip
+
+# Generated output and report files
+*.png
+*.docx
+*.pdf
