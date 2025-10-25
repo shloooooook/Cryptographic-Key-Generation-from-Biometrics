@@ -1,3 +1,9 @@
+# Problem Statement Title: ML-Based Cryptographic Key Generation Using Biometric or Behavioral Data.
+
+# Description 
+
+This project explores the integration of Machine Learning and Cryptography by creating a system that generates cryptographic keys directly from a user's biometric (e.g., face, fingerprint, voice) or behavioral (e.g., typing pattern, mouse movement) data.Instead of storing keys explicitly, the system uses a trained ML model to derive a unique, reproducible key from user-specific features. 
+ 
 # Cryptographic Key Generation Using Biometrics
 
 This project demonstrates a system that generates a 128-bit cryptographic key from a users keyboard and mouse (KMT) dynamics. It uses a Siamese Neural Network to create a unique biometric template, which is then used to reproduce a stable key.
