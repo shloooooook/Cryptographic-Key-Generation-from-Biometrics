@@ -6,11 +6,9 @@ project/
 # Python cache files
 __pycache__/
 *.pyc
-
 *.keras
 *.zip
 
 # Generated output and report files
-*.png
 *.docx
 *.pdf
