@@ -6,7 +6,6 @@ from tensorflow import keras
 from tensorflow.keras import layers
 from sklearn.preprocessing import MinMaxScaler
 from numpy.linalg import norm
-import hashlib
 import warnings
 import random
 import matplotlib.pyplot as plt
